@@ -1,1 +1,1 @@
-# landingPage-Cryptocurrency
+# CryptoManianc
