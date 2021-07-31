@@ -1,5 +1,5 @@
 # CryptoManiac
-<br><br><br>
+<br><br> 
 Landing Page for a Cryptocurrency Broker website. <br>
 <br>
 Minimalistic colour theme.<br><br>
